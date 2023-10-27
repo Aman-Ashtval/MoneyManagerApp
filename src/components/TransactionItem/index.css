@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.history-li {
+  border: 1px solid #cbd5e1;
+  margin: 0px;
+  display: flex;
+  padding: 5px;
+}
+
+.li-p {
+  margin: 0px;
+  width: 25%;
+  flex-shrink: 5;
+  text-align: center;
+  color: #7e858e;
+  font-size: 19px;
+  padding: 5px;
+}
+
+.dlt-btn {
+  background-color: transparent;
+  margin: 0px;
+  width: 25%;
+  flex-shrink: 5;
+  text-align: center;
+  color: #1e293b;
+  border: none;
+  padding: 5px;
+}
+
+.dlt-img {
+  width: 22px;
+}
